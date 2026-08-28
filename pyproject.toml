@@ -1,0 +1,14 @@
+[project]
+name = "llm-enhanced-gnn-fraud-detection"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "accelerate>=1.2",
+    "peft>=0.14",
+    "scikit-learn>=1.4",
+    "torch>=2.2",
+    "torch-geometric>=2.5",
+    "transformers>=4.50",
+]

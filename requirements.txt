@@ -1,0 +1,6 @@
+torch>=2.2
+torch-geometric>=2.5
+transformers>=4.50
+peft>=0.14
+accelerate>=1.2
+scikit-learn>=1.4
